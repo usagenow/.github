@@ -6,8 +6,7 @@
 
 UsageNow is a native macOS menu bar app for tracking Codex and Claude Code usage, limits, reset times, and token activity.
 
-[usagenow.com](https://usagenow.com)
-[x.com](https://x.com/UsageNow)
+[usagenow.com](https://usagenow.com)  |  [x.com](https://x.com/UsageNow)
 
 ## What it does
 
